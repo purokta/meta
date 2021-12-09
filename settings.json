@@ -1,0 +1,20 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": false,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6282139089054",
+	"ownerNumberr": "6282139089054",
+	"cr": "𝓜𝓪𝓼 𝓟𝓾𝓻",
+	"ownername": "𝓜𝓪𝓼 𝓟𝓾𝓻",
+	"botname":"𝓢𝓲𝓮𝓼𝓽 𝓫𝓸𝓽",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": "𝓢𝓲𝓮𝓼𝓽 𝓫𝓸𝓽\nby 𝓜𝓪𝓼 𝓟𝓾𝓻"
+}
